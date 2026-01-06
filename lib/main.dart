@@ -5,7 +5,7 @@ import 'package:gym_system/features/home/presentation/views/home_view.dart';
 void main() {
   runApp(const MyApp());
 }
-
+ 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
